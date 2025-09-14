@@ -1,4 +1,6 @@
 <img width="1879" height="1088" alt="image" src="https://github.com/user-attachments/assets/33d898b4-52f3-4f4d-a677-5d0a9d369d81" />
+<img width="1879" height="1293" alt="image" src="https://github.com/user-attachments/assets/778e411a-9549-4281-bde9-d964a5186b90" />
+
 
 # Note App - Laravel CRUD Application
 
